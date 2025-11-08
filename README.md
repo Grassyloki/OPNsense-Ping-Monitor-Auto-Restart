@@ -15,7 +15,7 @@ A monitoring script for OPNsense that tests network connectivity and automatical
 ### 1. Copy the script
 ```bash
 # Copy to /root directory
-curl -o /root/ping_test_restart_wg.sh https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/ping_test_restart_wg.sh
+curl -o /root/ping_test_restart_wg.sh https://raw.githubusercontent.com/Grassyloki/OPNsense-Ping-Monitor-Auto-Restart/main/ping_test_restart_wg.sh
 chmod +x /root/ping_test_restart_wg.sh
 ```
 
